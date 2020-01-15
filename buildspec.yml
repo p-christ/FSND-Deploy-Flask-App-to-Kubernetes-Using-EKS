@@ -35,5 +35,3 @@ phases:
       - ls
 artifacts:
   files: build.json
-env:
-  JWT_SECRET: 'myjwtsecret'
